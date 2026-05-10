@@ -1,0 +1,11 @@
+int counter = 10;
+
+while (counter < 100) {
+    counter = counter + 5;
+}
+
+if (counter > 50) {
+    counter = counter * 2;
+}
+
+return counter;
